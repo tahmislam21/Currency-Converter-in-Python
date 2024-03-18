@@ -11,11 +11,14 @@ The program will convert currency between 2 currency codes at a specific date. I
 
 ## How to Setup
 
-  1. Unzip the zip folder
-  2. Open PyCharm or other similar development environment
-  3. Upload or connect all files into the development environment
-  4. Make sure the Python version is as given below
-  5. Upload all the packages and their version as given below
+STEP 1:
+Download python from the link "https://www.python.org/downloads/". It is more wise to make sure the latest version is not downloaded, rather a few versions older is preferred.
+
+STEP 2: 
+Download an IDE of your choice. My favorite is Visual Studio Code. You can download it from the link: "https://code.visualstudio.com/download"
+
+STEP 3: 
+You have now downloaded all the necessary tools. Go to VS Code, create new file and make sure to save it with a .py extension.
 
 
 Python version: Python 3.9.6
