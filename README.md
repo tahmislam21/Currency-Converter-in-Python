@@ -18,7 +18,7 @@ The program will convert currency between 2 currency codes at a specific date. I
   5. Upload all the packages and their version as given below
 
 
-python 3.9.6
+Python version: Python 3.9.6
 
 The in-built packages sys, datetime, and requests were used.
 
