@@ -7,8 +7,6 @@ def check_arguments(args):
     Otherwise the program will exit and display the relevant message provided in the assignment brief
 
     """
-
-    # => To be filled by student
     if len(args) != 3:
         print("[ERROR] You need to provide 3 arguments in the following order: <date> <currency1> <currency2>")
         sys.exit(0)
